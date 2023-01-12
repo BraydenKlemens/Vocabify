@@ -1,4 +1,4 @@
-# Vocabify
+# Vocabify App
 
 ## About
 A flutter application built with a team. The purpose of this app is to improve your vocabulary.
